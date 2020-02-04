@@ -1,10 +1,11 @@
 # Treinamento de GIT na Agro Sandri
 
-[X] Instalação
-    [X] Thiago
-    [X] Marcos
-    [X] Craitson
-    [X] André
+- [X] Instalação
+
+    - [X] Thiago
+    - [X] Marcos
+    - [X] Craitson
+    - [X] André
 
 
 - [x] Inicializado Repositório
