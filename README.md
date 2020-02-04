@@ -23,4 +23,4 @@
 
 ## Merge e Conflitos
 
-Thiago Passou por aqui.
+Craitson Passou por aqui.
