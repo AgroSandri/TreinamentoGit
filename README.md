@@ -6,13 +6,16 @@
     [X] Craitson
     [X] André
 
-[x] Inicializado Repositório
-[x] Criado arquivo
-[x] Conceito de staged (alterações em etapas)
 
-[X] Commit
-[x] Diff
-[x] Repositório Remoto
-[x] Push
-[x] Pull
-[x] Clone
+- [x] Inicializado Repositório
+- [x] Criado arquivo
+- [x] Conceito de staged (alterações em etapas)
+
+
+- [X] Commit
+- [x] Diff
+- [x] Repositório Remoto
+- [x] Clone
+- [x] Push
+- [x] Pull
+- [x] Fetch
