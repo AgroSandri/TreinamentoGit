@@ -1,0 +1,19 @@
+#Treinamento de GIT na Sandri
+
+- Inicialiar repositorio
+  - CMD -> get Inicialiar
+
+- Criar repositorio
+  - code .
+
+- Conecta ao repositorio remoto
+git clone https://github.com/AgroSandri/TreinamentoGit.git
+git remote add origin https://github.com/AgroSandri/TreinamentoGit.git
+git remote -v
+
+- Sincroniza o projeto 
+git fetch 
+
+- Eleva o projeto local para o remoto
+git push -u origin master
+
