@@ -24,5 +24,3 @@
 ## Merge e Conflitos
 
 Thiago Passou por aqui.
-
-marcos
