@@ -20,3 +20,7 @@
 - [x] Push
 - [x] Pull
 - [x] Fetch
+
+## Merge e Conflitos
+
+Thiago Passou por aqui.
