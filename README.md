@@ -21,6 +21,18 @@
 - [x] Pull
 - [x] Fetch
 
+## Como fazer merge manual
+
+- Na Linha de comando:
+    - Mudar para a Branch destino (geralmente a master)
+    - git merge branch_onde_estao_alteracoes
+
+- No VsCode
+    - Ctrl + Shift + P
+    - Git merge Branch (Ou Mesclar ramificações)
+    - Escolher o Ramo Origem
+
+
 ## Merge e Conflitos
 
 Thiago Passou aqui e deu
