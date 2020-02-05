@@ -23,7 +23,7 @@
 
 ## Merge e Conflitos
 
-Craitson Passou por aqui.
+Thiago Passou aqui e deu
 
 
 # Links
