@@ -37,6 +37,9 @@
 
 Thiago Passou aqui e deu
 
+Thiago acha que o Github Flow se aplica melhor ao nosso cenário
+
+
 # Links
 
 [Gitflow e outros](https://medium.com/@luccasduarte320/introdu%C3%A7%C3%A3o-%C3%A0-estrategias-de-branching-em-projetos-e8837de37a39)
