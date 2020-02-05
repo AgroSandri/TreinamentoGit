@@ -21,6 +21,8 @@
 - [x] Pull
 - [x] Fetch
 
+- [x] Github e pull requests
+
 ## Como fazer merge manual
 
 - Na Linha de comando:
