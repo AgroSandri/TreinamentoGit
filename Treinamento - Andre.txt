@@ -17,3 +17,4 @@ git fetch
 - Eleva o projeto local para o remoto
 git push -u origin master
 
+- Copiar sempre apartir da master para gerar o novos branch
