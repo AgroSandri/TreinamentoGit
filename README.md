@@ -25,6 +25,8 @@
 
 Thiago Passou aqui e deu
 
+Thiago acha que o Github Flow se aplica melhor ao nosso cenário
+
 
 # Links
 
